@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/addToWallet"
+            android:icon="@drawable/add_to_wallet"
+            android:title="Add To Wallet" />
+        <item
+            android:id="@+id/alerts"
+            android:icon="@drawable/alerts"
+            android:title="Alerts" />
+        <item
+            android:id="@+id/search"
+            android:icon="@drawable/calander"
+            android:title="Search" />
+
+    </group>
+
+    <item android:title="LOAN">
+        <menu>
+            <item
+                android:id="@+id/communicate"
+                android:icon="@drawable/communicate"
+                android:title="Communicate" />
+            <item
+                android:id="@+id/nav_Lend"
+                android:icon="@drawable/lend"
+                android:title="Lend" />
+            <item
+                android:id="@+id/nav_Borrow"
+                android:icon="@drawable/borrow"
+                android:title="Borrow" />
+        </menu>
+    </item>
+
+</menu>

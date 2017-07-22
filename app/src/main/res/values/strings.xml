@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Hisaab Kitaab</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="plus">+</string>
+    <string name="title_activity_feeds">feeds</string>
+    <string name="cal">calander</string>
+    <string name="left">LEFT WITH</string>
+    <string name="amount">0</string>
+    <string name="title_activity_alerts">Alerts</string>
+    <string name="title_activity_communicate">Communicate</string>
+    <string name="title_activity_lend">Lend</string>
+    <string name="title_activity_borrow">Borrow</string>
+</resources>
